@@ -18,4 +18,4 @@ coverage
 
 .DS_Store
 
-/index.js
+bin
