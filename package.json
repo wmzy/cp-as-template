@@ -1,6 +1,6 @@
 {
   "name": "cp-as-template",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Copy code file as a template.",
   "main": "bin/index.js",
   "bin": "bin/index.js",
